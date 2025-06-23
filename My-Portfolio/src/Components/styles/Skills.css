@@ -1,0 +1,20 @@
+.skills-section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.skill-item {
+  background-color: #e0e0e0;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 500;
+}
